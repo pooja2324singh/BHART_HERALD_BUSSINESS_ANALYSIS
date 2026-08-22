@@ -90,10 +90,10 @@ Print waste reduction outpaced circulation loss slightly, suggesting some operat
 ---
 
 ## 📈 Dashboard Preview
-
-
-
-
+![Print_Summary](Print_Summary.png)
+![Revenu Analysis](Revenu_Analysis.png)
+![Digital_Tranformation](Digital_Transformation.png)
+![Readness&Relaunch](Readness&Relaunch.png)
 
 ## ✅ Business Recommendations
 
@@ -111,6 +111,7 @@ Print waste reduction outpaced circulation loss slightly, suggesting some operat
 -  Power BI interactive dashboards
 -  DAX measures & KPI library
 -  Business insights & recommendations summary
+-  Presentation deck → [`bharat_herald.pptx`](bharat_herald.pptx)
 
 ## 🛠 Skills Demonstrated
 
@@ -123,5 +124,3 @@ Print waste reduction outpaced circulation loss slightly, suggesting some operat
 This project was completed as part of the **Codebasics Resume Project Challenge**. The dataset was provided by the challenge; all SQL queries, DAX measures, dashboard design, and business recommendations were independently developed as part of this analysis.
 
 ---
-
-⭐ If you found this project useful, feel free to star the repo or connect with me for feedback!
